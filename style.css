@@ -1,0 +1,166 @@
+body{
+    margin: 0.5px;
+}
+
+.main{
+    border-style: none;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    margin:60px;
+    padding:30px;
+ 
+}
+
+.right{
+
+    width: 265px;
+    background-color: #FEFEFB;
+    display: flex;
+    flex-direction: column;
+    left: 20px;
+    height:350px ;
+    box-shadow: 10px 5px 5px  rgb(236, 235, 235);
+   
+   
+}
+
+.left{
+    display: flex;
+    height:350px;
+    width: 220px;
+   flex-direction: column;
+   align-items: center;
+   border-radius: 10%;
+   background-image: linear-gradient(to bottom right, #6441FD, #5F3FFC);
+   
+}
+
+.one{
+    color:#c8bbff;
+    }
+
+.two{
+    padding-top: 10px;
+    height: 100px;
+  width: 100px;
+  border-radius: 100%;
+  background-color: #4533eb;
+  text-align: center;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+h3{
+    font-family:serif;
+    font-weight: bold;
+    font-size: 34px;
+    color: white;
+    line-height:0px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+
+h6{
+    color: #AAA9FF;
+    font-size: 8px;
+    font-family: serif;
+    line-height: 0px;
+}
+
+.great{
+    color: white;
+    font-weight: bolder;
+    padding-top: 2px;
+    font-size: 20px;
+    font-weight: "Comic Sans MS", "Comic Sans";
+    padding-bottom: 0%;
+    line-height: 0;
+    padding-top: 20px;
+}
+
+.three{
+    padding:17px;
+    margin:5px;
+    text-align: center;
+    color: #B7B5FF;
+    font-size: 12px;
+}
+/*CSS for the second portion*/
+
+.head{
+    padding-top: 16px;
+    padding: 5px;
+    text-align: left;
+    color:#363d5b;
+    font-weight: bold;
+    margin-left: 8px;
+    line-height: 0.1px;
+}
+.shoulder{
+    border-style: none;
+    border-radius: 10%;
+    margin-right: 50px;
+    background-color:#FFF6F5 ;
+    color: #DD9391;
+    text-align: center;
+    margin: 5px;
+    font-size: 15px;
+   
+}
+.key{
+border-style: none;
+    border-radius: 10%;
+    margin-right: 50px;
+    background-color:#FFFBF2 ;
+    color: #f6c253;
+    text-align: center;
+    margin: 5px;
+    font-size: 15px;
+}
+.knees{
+    border-style: none;
+    margin-right: 50px;
+    border-radius: 10%;
+    background-color:#F2FBFA ;
+    color: #34ab8c;
+    text-align: center;
+    margin: 5px;
+    font-size: 15px;
+}
+
+.text {
+    border-style: none;
+    border-radius: 5%;
+    border-width: 5%;
+    margin-right: 50px;
+    color: #424cb0;
+    background-color:#F3f3fd;
+    text-align: center;
+    margin: 5px;
+    font-size: 15px;
+    
+}
+
+button{
+    color:white;
+    background-color: #303B59;
+    border-radius:20px ;
+    padding:10px;
+    margin: 8px;
+    border-style: none;
+    font-size: 12.5px;
+}
+/*i added this because i needed to resive the icons to fit*/
+img{
+    height:15px; 
+}
+
+span{
+    color: black;
+    font-weight: bold;
+}
+
